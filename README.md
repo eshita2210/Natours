@@ -138,6 +138,3 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 - Recently Viewed Tours
 - And More ! There's always room for improvement!
 
-## Acknowledgement
-
-- This project is part of the online course I've taken at Udemy. Thanks to [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) for creating this awesome course!
