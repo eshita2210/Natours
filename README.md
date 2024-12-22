@@ -43,7 +43,7 @@ Live demo (Feel free to visit) 👉 : https://natours-jzik.onrender.com
 - Proceed to the payment using Stripe
 - Enter the card details (Test Mode):
   ```
-  - Card No. : 4242 4242 4242 4242
+  - Card No. : 4242 4242 4542 4247
   - Expiry date: any
   - CVV: any
   ```
